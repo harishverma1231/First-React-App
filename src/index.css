@@ -1,0 +1,36 @@
+h1, p, button, .btn{
+  font-family: 'Inter', sans-serif !important;
+  }
+  
+  a{
+    font-family: 'DM Sans', sans-serif !important;
+  }
+  .mybg{
+    background: #043873 !important;
+  }
+  .btn_bg{
+    background: #4F9CF9 !important;
+  }
+  .border_background{
+    border: #4F9CF9 !important;
+  }
+  .yellow_bg{
+    background: #FFE492 !important;
+  }
+  .filter_invert{
+    filter: invert();
+  }
+  .carousel-item.myclasss.border-0.rounded-0 div {
+    background: #4F9CF9 !important;
+}
+button.slick-arrow {
+  display: none !important;
+}
+ul.slick-dots li {
+  margin: 0 10px !important;
+}
+
+.slick-dots li button {
+  background: black !important;
+  border-radius: 25px !important;
+}
